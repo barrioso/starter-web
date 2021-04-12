@@ -12,7 +12,7 @@ Keep the track on the code changes
 
 
 ## How To Contribute  
-
+Please fork this repository and then issues Pull Request for review.
 
 ## Deployment
 
