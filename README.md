@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub wor.
 
-Adding a line for rebasing exaple
+Adding a line for rebasing exaple, then more changes from myfeature branch too
 
 
 ## Introduction 
